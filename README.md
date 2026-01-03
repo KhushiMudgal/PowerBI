@@ -1,108 +1,95 @@
-### HR Attrition Analysis Dashboard (Power BI)
-## Project Overview
+# HR ATTRITION ANALYSIS DASHBOARD (POWER BI)
 
-This project focuses on analyzing employee attrition to understand when employees leave, which departments are most affected, and what factors contribute to attrition.
+---
 
-The dashboard is built using Power BI and helps HR teams and management make data-driven decisions to reduce employee turnover.
+## PROJECT OVERVIEW
 
-## Objective
+This project focuses on analyzing **employee attrition** to understand **when employees leave, which departments are most affected, and what factors influence attrition**.
+The dashboard is developed using **Power BI** and provides actionable insights to support HR and management decision-making.
 
-The main goals of this project are to:
+---
 
-Analyze overall employee attrition
+## OBJECTIVE
 
-Identify departments and job roles with high attrition
+The key objectives of this project are to:
 
-Understand attrition trends based on age, salary, education, and experience
+* Analyze overall employee attrition trends
+* Identify departments and job roles with high attrition
+* Understand the impact of age, salary, education, and experience on attrition
+* Determine at what stage of employment employees are most likely to leave
 
-Track when employees are most likely to leave the company
+---
 
-## Key Questions Answered
+## KEY BUSINESS QUESTIONS
 
-What is the overall attrition count and attrition rate?
+* What is the overall attrition count and attrition rate?
+* Which department has the highest attrition?
+* Which age group shows the highest attrition?
+* How does salary range impact employee attrition?
+* What is the relationship between education level and attrition?
+* After how many years at the company do employees tend to leave?
+* Which job roles experience the highest attrition?
+* Is attrition higher among male or female employees?
 
-Which department has the highest attrition?
+---
 
-At what age group do employees leave the most?
+## TOOLS & TECHNOLOGIES
 
-Does salary level impact attrition?
+* Power BI
 
-How does education background relate to attrition?
+  * Data Modeling
+  * DAX Measures
+  * Interactive Visualizations
+  * Slicers and Filters
 
-After how many years at the company do employees leave?
+---
 
-Which job roles experience the highest attrition?
+## DASHBOARD FEATURES
 
-Is there a difference in attrition between male and female employees?
+* Key KPIs: Total Employees, Attrition Count, Attrition Rate, Average Age, Average Salary, Average Years at Company
+* Attrition by Department (HR, R&D, Sales)
+* Attrition by Age Group
+* Attrition by Salary Range
+* Attrition by Education Level
+* Attrition by Job Role
+* Attrition by Years at Company
+* Gender-wise Attrition Analysis
 
-## Tools & Technologies
+---
 
-Power BI
+## KEY INSIGHTS
 
-Data Modeling
+* The highest attrition is observed in the 26–35 age group
+* Employees in lower salary ranges show significantly higher attrition
+* Laboratory Technicians and Research Scientists have the highest attrition counts
+* Most attrition occurs within the initial years of employment
+* Attrition patterns vary significantly across departments
 
-DAX Measures
+---
 
-Interactive Visualizations
+## PROJECT WORKFLOW
 
-Slicers & Filters
+1. Data Cleaning and Preparation
+2. Data Modeling in Power BI
+3. DAX Measure Creation
+4. Interactive Dashboard Development
 
-## Dashboard Highlights
+---
 
-KPIs: Total Employees, Attrition Count, Attrition Rate, Average Age, Average Salary, Average Years
+## BUSINESS VALUE
 
-Attrition by Department (HR, R&D, Sales)
+This dashboard enables organizations to:
 
-Attrition by Age Group
+* Identify high-risk employee segments
+* Improve employee retention strategies
+* Optimize compensation and career growth plans
+* Reduce hiring and training costs
 
-Attrition by Salary Range
+---
 
-Attrition by Education Background
+## CONCLUSION
 
-Attrition by Job Role
+This Power BI dashboard delivers a comprehensive view of employee attrition and helps stakeholders understand key drivers behind employee turnover, enabling proactive HR decision-making.
 
-Attrition by Years at Company
+---
 
-Gender-wise Attrition Analysis
-
-## Key Insights
-
-Most attrition occurs in the 26–35 age group
-
-Lower salary ranges show significantly higher attrition
-
-Laboratory Technicians and Research Scientists have the highest attrition
-
-Employees tend to leave within the first few years of joining
-
-Certain departments are more impacted than others
-
-## Project Structure
-
-Data Cleaning & Preparation
-
-Data Modeling in Power BI
-
-DAX Measures for KPIs
-
-Interactive Dashboard Creation
-
-## Business Value
-
-This dashboard helps organizations:
-
-Identify high-risk employee segments
-
-Improve retention strategies
-
-Design better compensation and career growth plans
-
-Reduce hiring and training costs
-
-## Dashboard Preview
-
-<img width="1347" height="750" alt="image" src="https://github.com/user-attachments/assets/56cb46e4-ce87-4df8-94af-cbc2d3935f59" />
-
-## Conclusion
-
-This Power BI dashboard provides a complete view of employee attrition and highlights patterns that can help HR teams take preventive actions before attrition increases.
