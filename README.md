@@ -1,5 +1,3 @@
-# PowerBI
-
 ### HR Attrition Analysis Dashboard (Power BI)
 ## Project Overview
 
